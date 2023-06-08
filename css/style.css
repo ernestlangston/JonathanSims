@@ -35,3 +35,10 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+.card-title{
+    margin-left: 2%;
+    margin-right: 2%;
+    color: rgb(181, 169, 149);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
