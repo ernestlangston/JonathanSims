@@ -1,4 +1,4 @@
-body{
+.body{
     background-color: rgb(75, 76, 73);
 }
 .nav-wrapper{
@@ -33,7 +33,7 @@ body{
 }
 .dark-green{
     background-color: rgb(39, 71, 14);
-    .card-title{
+.card-title{
     margin-left: 2%;
     margin-right: 2%;
     color: rgb(181, 169, 149);
